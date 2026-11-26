@@ -423,7 +423,7 @@ a {
     font-family: 'DM Mono';
     font-weight: 100;
 }
-@media (max-width: 400px)  {
+@media (max-width: 350px)  {
     .project-blocks{
         flex-direction: column;
         align-items: center;
